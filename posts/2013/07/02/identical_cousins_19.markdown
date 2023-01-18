@@ -26,30 +26,30 @@ This episode is sponsored by <a href="http://igloosoftware.com/patty">Igloo Soft
 Some things we mention:
 
 <ul>
-<li><a href="http://www.youtube.com/watch?v=VSdxqIBfEAw">We Are Sinking</a>
-<li><a href="http://en.wikipedia.org/wiki/Tokyo">Tokyo</a>
-<li><a href="http://www.apple.com/mac-pro/">Mac Pro</a>
-<li><a href="http://www.apple.com/macbook-air/">Macbook Air</a>
-<li><a href="http://en.wikipedia.org/wiki/CodeWarrior">CodeWarrior</a>
-<li><a href="http://www.apple.com/ios/ios7/">iOS 7</a>
-<li><a href="https://path.com/">Path</a>
-<li><a href="http://www.apple.com/osx/preview/">OS X Mavericks</a>
+<li><a href="http://www.youtube.com/watch?v=VSdxqIBfEAw">We Are Sinking</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tokyo">Tokyo</a></li>
+<li><a href="http://www.apple.com/mac-pro/">Mac Pro</a></li>
+<li><a href="http://www.apple.com/macbook-air/">Macbook Air</a></li>
+<li><a href="http://en.wikipedia.org/wiki/CodeWarrior">CodeWarrior</a></li>
+<li><a href="http://www.apple.com/ios/ios7/">iOS 7</a></li>
+<li><a href="https://path.com/">Path</a></li>
+<li><a href="http://www.apple.com/osx/preview/">OS X Mavericks</a></li>
 <li><a href="http://vesperapp.co/">Vesper</a></li>
 <li><a href="http://flexibits.com/chatology">Chatology</a></li>
 <li><a href="https://developer.apple.com/wwdc/">WWDC</a></li>
 <li><a href="http://flexibits.com/fantastical">Fantastical</a></li>
 <li><a href="http://netnewswireapp.com/">NetNewsWire</a></li>
-<li><a href="http://www.marco.org/2013/06/28/all-or-nothing">Marco on NetNewsWire Syncing</a>
-<li><a href="http://cloud.feedly.com/">Feedly</a>
-<li><a href="https://feedhq.org/">FeedHQ</a>
-<li><a href="https://feedwrangler.net/">FeedWrangler</a>
-<li><a href="http://www.newsblur.com/">NewsBlur</a>
-<li><a href="https://www.dropbox.com/">Dropbox</a>
-<li><a href="http://www.imore.com/icloud-gets-kicked-core-data-sync-totally-had-it-coming">iCloud</a>
-<li><a href="http://aws.amazon.com/">Amazon Web Services</a>
-<li><a href="http://www.windowsazure.com/ios">Windows Azure Mobile Services</a>
-<li><a href="https://www.heroku.com/">Heroku</a>
-<li><a href="https://itunes.apple.com/us/app/mr.-reader/id412874834?mt=8">Mr. Reader</a>
+<li><a href="http://www.marco.org/2013/06/28/all-or-nothing">Marco on NetNewsWire Syncing</a></li>
+<li><a href="http://cloud.feedly.com/">Feedly</a></li>
+<li><a href="https://feedhq.org/">FeedHQ</a></li>
+<li><a href="https://feedwrangler.net/">FeedWrangler</a></li>
+<li><a href="http://www.newsblur.com/">NewsBlur</a></li>
+<li><a href="https://www.dropbox.com/">Dropbox</a></li>
+<li><a href="http://www.imore.com/icloud-gets-kicked-core-data-sync-totally-had-it-coming">iCloud</a></li>
+<li><a href="http://aws.amazon.com/">Amazon Web Services</a></li>
+<li><a href="http://www.windowsazure.com/ios">Windows Azure Mobile Services</a></li>
+<li><a href="https://www.heroku.com/">Heroku</a></li>
+<li><a href="https://itunes.apple.com/us/app/mr.-reader/id412874834?mt=8">Mr. Reader</a></li>
 <li><a href="http://hockeyapp.net/">HockeyApp</a></li>
 </ul>
 
