@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	
+  <channel>
+    <title>[[@site_name]]</title>
+    <link>[[@site_url]]</link>
+    <description>[[@feed_description]]</description>
+		<language>en</language>
+		<itunes:author>Brent and Michael Simmons</itunes:author>
+		<itunes:summary>[[@feed_description]]</itunes:summary>
+		<itunes:keywords>brent,michael,simmons,flexibits,fantastical,glassboard,mac,iphone,ipad,tech,apps,design,cocoa,inessential</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://identicalcousins.net/images/IdenticalCousins-iTunes.png" />
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News" />
+		</itunes:category>
+		<itunes:owner>
+			<itunes:name>Brent Simmons</itunes:name>
+			<itunes:email>podcast@identicalcousins.net</itunes:email>
+		</itunes:owner>
+
+[[@items]]
+    
+  </channel>
+</rss>
+
