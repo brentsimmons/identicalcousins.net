@@ -1,7 +1,7 @@
 @title Identical Cousins 21: $500?! Fully Subsidized!?
 @pubDate Tue Aug 27 1:30:00 -0700 2013
 @modDate Tue Aug 27 1:30:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins21.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins21.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 66578086
 @itunesItemSummary Brent and Michael talk about Steve Ballmer’s retirement, Tesla, iPhone rumors, iOS 7 design, and Glassboard.
@@ -9,9 +9,9 @@
 @itunesDuration 01:10:15
 @itunesExplicit yes
 
-Recorded 23 August 2013. 
+Recorded 23 August 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins21.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins21.m4a">download the m4a file</a>.
 
 In this episode we talk about Steve Ballmer’s retirement, Tesla, iPhone rumors, iOS 7 design, and Glassboard.
 

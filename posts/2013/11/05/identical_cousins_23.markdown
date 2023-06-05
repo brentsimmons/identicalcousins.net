@@ -1,7 +1,7 @@
 @title Identical Cousins 23: Still Number One
 @pubDate Tue Nov 05 11:15:00 -0800 2013
 @modDate Tue Oct 01 11:15:00 -0800 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins23.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins23.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 59225252
 @itunesItemSummary Brent and Michael talk about the release of Fantastical 2 for iPhone. And stuff.
@@ -9,9 +9,9 @@
 @itunesDuration 01:02:57
 @itunesExplicit yes
 
-Recorded 1 November 2013. 
+Recorded 1 November 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins23.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins23.m4a">download the m4a file</a>.
 
 In this episode we talk about the release of Fantastical 2 for iPhone. And stuff.
 

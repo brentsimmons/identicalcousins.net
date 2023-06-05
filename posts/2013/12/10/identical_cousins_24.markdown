@@ -1,7 +1,7 @@
 @title Identical Cousins 24: Golden Master (Is Best)
 @pubDate Tue Dec 10 12:30:00 -0800 2013
 @modDate Tue Dec 10 12:30:00 -0800 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins24.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins24.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 55853806
 @itunesItemSummary Brent and Michael look back at over a year of Identical Cousins and then hang up the phone.
@@ -9,9 +9,9 @@
 @itunesDuration 59:26
 @itunesExplicit yes
 
-Recorded 6 December 2013. 
+Recorded 6 December 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins24.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins24.m4a">download the m4a file</a>.
 
 This is the last episode of Identical Cousins. Thank you so much for listening! We had a great time, and we loved hearing from people who enjoyed the show.
 

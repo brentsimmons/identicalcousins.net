@@ -1,7 +1,7 @@
 @title Identical Cousins 18: I Took a Lickin’ from a Chicken
 @pubDate Tue Jun 18 10:00:00 -0700 2013
 @modDate Tue Jun 18 10:00:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins18.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins18.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 45415381
 @itunesItemSummary Brent and Michael talk about Vesper, Chatology, and WWDC. Note that this was recorded before WWDC.
@@ -9,9 +9,9 @@
 @itunesDuration 01:05:05
 @itunesExplicit yes
 
-Recorded 7 June 2013. 
+Recorded 7 June 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins18.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins18.m4a">download the m4a file</a>.
 
 In this episode we talk about Vesper, Chatology, and WWDC. But note that this was recorded right before WWDC. So we don’t actually talk about anything announced at WWDC. We know nothing.
 

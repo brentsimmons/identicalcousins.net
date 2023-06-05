@@ -1,7 +1,7 @@
 @title Identical Cousins 1: Software Is Hard
 @pubDate Fri Aug 28 22:03:02 -0700 2012
 @modDate Fri Aug 28 22:44:49 -0700 2012
-@enclosure https://s3.amazonaws.com/identicalcousins/identicalcousins1.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins1.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 47022719
 @itunesItemSummary Brent and Michael talk about how software is too hard to use. And they talk about open source TextMate, technical debt, Dave Winer, and the Frontier kernel.
@@ -23,4 +23,4 @@ Some things mentioned on the podcast:
 <li><a href="http://frontierkernel.org/">The Frontier kernel</a></li>
 </ul>
 
-<a href="https://s3.amazonaws.com/identicalcousins/identicalcousins1.m4a">Download the audio file</a>. 
+<a href="https://identicalcousins.net/downloads/identicalcousins1.m4a">Download the audio file</a>.

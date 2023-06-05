@@ -1,7 +1,7 @@
 @title Identical Cousins 20: Brent’s Grandmom
 @pubDate Tue Aug 06 12:00:00 -0700 2013
 @modDate Tue Aug 06 12:00:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins20.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins20.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 49553407
 @itunesItemSummary Brent and Michael talk about Brent’s Grandmom, Apple developer center down time, iOS 7 and OS X 10.9, and product websites.
@@ -9,9 +9,9 @@
 @itunesDuration 01:19:19
 @itunesExplicit yes
 
-Recorded 2 August 2013. 
+Recorded 2 August 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins20.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins20.m4a">download the m4a file</a>.
 
 In this episode we talk about Brent’s Grandmom, Apple developer center down time, iOS 7 and OS X 10.9, and product websites.
 

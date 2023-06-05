@@ -1,7 +1,7 @@
 @title Identical Cousins 3: UI Changes in iOS 6
 @pubDate Thu Sep 27 12:09:30 -0700 2012
 @modDate Thu Sep 27 12:09:30 -0700 2012
-@enclosure http://s3.amazonaws.com/identicalcousins/identicalcousins3.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins3.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 28590230
 @itunesItemSummary Brent and Michael talk about iOS 6 UI changes, including pull-to-refresh and the new shadows.
@@ -16,6 +16,6 @@ Some pull-to-refresh links:
 <li><a href="http://techcrunch.com/2012/03/27/pull-to-refresh-the-patent/">TechCrunch on the pull-to-refresh patent</a></li>
 </ul>
 
-<a href="http://s3.amazonaws.com/identicalcousins/identicalcousins3.m4a">Download the audio file</a>.
+<a href="https://identicalcousins.net/downloads/identicalcousins3.m4a">Download the audio file</a>.
 
 Recorded 21 Sep. 2012.

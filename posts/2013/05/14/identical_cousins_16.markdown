@@ -1,7 +1,7 @@
 @title Identical Cousins 16: Red Herring
 @pubDate Tue May 14 12:25:00 -0700 2013
 @modDate Tue May 14 12:25:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins16.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins16.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 88855041
 @itunesItemSummary Brent and Michael talk to Chris Liscio, author of Capo, FuzzMeasure, and TapeDeck.
@@ -10,7 +10,7 @@
 
 Recorded 26 April 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins16.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins16.m4a">download the m4a file</a>.
 
 Brent and Michael talk to Chris Liscio, author of the amazing audio apps Capo, FuzzMeasure, and TapeDeck.
 

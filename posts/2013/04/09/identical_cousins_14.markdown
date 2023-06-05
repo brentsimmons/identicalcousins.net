@@ -1,7 +1,7 @@
 @title Identical Cousins 14: Partners in Crime
 @pubDate Tue Apr 09 11:30:00 -0700 2013
 @modDate Tue Apr 09 11:30:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins14.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins14.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 51124273
 @itunesItemSummary Brent and Michael talk to Nick Bradbury, author of HomeSite, TopStyle, FeedDemon, and Glassboard.
@@ -11,7 +11,7 @@
 
 Recorded 5 April 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins14.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins14.m4a">download the m4a file</a>.
 
 Brent and Michael talk to <a href="https://twitter.com/nbradbury">Nick Bradbury</a>, author of HomeSite, TopStyle, FeedDemon, and Glassboard.
 

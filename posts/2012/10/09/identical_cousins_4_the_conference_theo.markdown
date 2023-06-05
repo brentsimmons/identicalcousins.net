@@ -1,7 +1,7 @@
 @title Identical Cousins 4: The Conference Theory
 @pubDate Tue Oct 09 05:00:00 -0700 2012
 @modDate Tue Oct 09 05:00:00 -0700 2012
-@enclosure http://s3.amazonaws.com/identicalcousins/identicalcousins4.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins4.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 17626289
 @itunesItemSummary Brent and Michael talk about conferences. And dentistry.
@@ -22,4 +22,4 @@ Some conferences we mention:
 
 We didn’t mention one of my favorites, but we’ll link to it anyway: <a href="http://360idev.com">360iDev</a>. Also, <a href="http://www.secondconf.com">SecondConf</a> is reputed to be awesome.
 
-<a href="http://s3.amazonaws.com/identicalcousins/identicalcousins4.m4a">Download the audio file</a>.
+<a href="https://identicalcousins.net/downloads/identicalcousins4.m4a">Download the audio file</a>.

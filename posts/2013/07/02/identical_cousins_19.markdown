@@ -1,7 +1,7 @@
 @title Identical Cousins 19: We Are Syncing
 @pubDate Tue Jul 02 10:00:00 -0700 2013
 @modDate Tue Jul 02 10:00:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins19.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins19.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 71568662
 @itunesItemSummary Brent and Michael talk about iOS 7 and about syncing.
@@ -9,9 +9,9 @@
 @itunesDuration 01:15:20
 @itunesExplicit yes
 
-Recorded 28 June 2013. 
+Recorded 28 June 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins19.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins19.m4a">download the m4a file</a>.
 
 In this episode we talk about iOS 7 and about syncing.
 

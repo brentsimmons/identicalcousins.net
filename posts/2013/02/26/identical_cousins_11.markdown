@@ -1,7 +1,7 @@
 @title Identical Cousins 11: Indie Life - Three Weeks In
 @pubDate Tue Feb 26 11:00:00 -0800 2013
 @modDate Tue Feb 26 11:00:00 -0800 2013
-@enclosure http://s3.amazonaws.com/identicalcousins/identicalcousins11.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins11.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 64462717
 @itunesItemSummary Brent and Michael talk about Brent’s first three weeks of indie life. Then they go off on a tangent about the Mailbox.app queue.
@@ -11,7 +11,7 @@
 
 Recorded 20 Feb 2013.
 
-You can <a href="http://s3.amazonaws.com/identicalcousins/identicalcousins11.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins11.m4a">download the m4a file</a>.
 
 We talk about Brent’s first three weeks of indie life. Spoiler: he’s enjoying it.
 

@@ -1,7 +1,7 @@
 @title Identical Cousins 13: Bespoken Word
 @pubDate Tue Apr 02 11:30:00 -0700 2013
 @modDate Tue Apr 02 11:30:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins13.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins13.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 55538418
 @itunesItemSummary Google Reader, iCloud, Microsoft, Dave Morin, and Summly.
@@ -10,7 +10,7 @@
 
 Recorded 29 March 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins13.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins13.m4a">download the m4a file</a>.
 
 We talk about Google Reader, iCloud, Microsoft, Dave Morin, and Summly.
 

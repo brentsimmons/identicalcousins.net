@@ -1,7 +1,7 @@
 @title Identical Cousins 15: I Got Nothin’
 @pubDate Tue Apr 23 11:36:00 -0700 2013
 @modDate Tue Apr 23 11:36:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins15.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins15.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 55620639
 @itunesItemSummary Brent and Michael talk about feedback from testers, Siri and privacy, using open source code, Summly, and iSteve.
@@ -11,7 +11,7 @@
 
 Recorded 19 April 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins15.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins15.m4a">download the m4a file</a>.
 
 Brent and Michael talk about feedback from testers, Siri and privacy, using open source code, Summly, and iSteve.
 

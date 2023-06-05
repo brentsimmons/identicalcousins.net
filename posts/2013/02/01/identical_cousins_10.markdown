@@ -1,7 +1,7 @@
 @title Identical Cousins 10: Indie Life
 @pubDate Fri Feb 01 09:00:00 -0800 2013
 @modDate Fri Feb 01 09:00:00 -0800 2013
-@enclosure http://s3.amazonaws.com/identicalcousins/identicalcousins10.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins10.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 38708404
 @itunesItemSummary Brent and Michael talk about Brent’s return to indie life.
@@ -10,7 +10,7 @@
 
 Recorded 29 Jan 2013.
 
-You can <a href="http://s3.amazonaws.com/identicalcousins/identicalcousins10.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins10.m4a">download the m4a file</a>.
 
 We shoot the breeze, answer a couple listener questions, and then talk about <a href="http://inessential.com/2013/02/01/gone_indie">Brent going indie</a>.
 

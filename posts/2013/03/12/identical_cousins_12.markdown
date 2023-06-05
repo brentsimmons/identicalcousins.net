@@ -1,7 +1,7 @@
 @title Identical Cousins 12: What the Hell Were You Thinking, Michael?
 @pubDate Tue Mar 12 11:00:00 -0700 2013
 @modDate Tue Mar 12 11:00:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins12.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins12.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 66944194
 @itunesItemSummary Brent and Michael talk about changing your mind.
@@ -10,7 +10,7 @@
 
 Recorded 8 March 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins12.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins12.m4a">download the m4a file</a>.
 
 We talk about changing your mind. Fantastical adds a date badge — when Michael said he was against it. He explains why.
 

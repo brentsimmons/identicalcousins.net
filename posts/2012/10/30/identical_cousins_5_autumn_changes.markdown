@@ -1,7 +1,7 @@
 @title Identical Cousins 5: Autumn Changes
 @pubDate Tue Oct 30 11:50:41 -0700 2012
 @modDate Tue Oct 30 11:50:41 -0700 2012
-@enclosure http://s3.amazonaws.com/identicalcousins/identicalcousins5.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins5.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 23035162
 @itunesItemSummary Brent and Michael talk about the departure of Scott Forstall from Apple, iCloud syncing, Letterpress, and trains.
@@ -20,4 +20,4 @@ Some things we mention:
 <li><a href="http://www.amtrakcascades.com">The train from Seattle to Portland</a></li>
 </ul>
 
-<a href="http://s3.amazonaws.com/identicalcousins/identicalcousins5.m4a">Download the audio file</a>.
+<a href="https://identicalcousins.net/downloads/identicalcousins5.m4a">Download the audio file</a>.

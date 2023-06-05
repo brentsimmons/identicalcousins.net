@@ -1,7 +1,7 @@
 @title Identical Cousins 17: WWDC Pre-Crime
 @pubDate Tue May 28 02:00:00 -0700 2013
 @modDate Tue May 28 02:00:00 -0700 2013
-@enclosure http://identicalcousins.net/downloads/identicalcousins17.m4a
+@enclosure https://identicalcousins.net/downloads/identicalcousins17.m4a
 @enclosureType audio/x-m4a
 @enclosureLength 68625186
 @itunesItemSummary Brent and Michael talk to Jonathan Deutsch, founder of Tumult Inc., creator of Hype.
@@ -11,7 +11,7 @@
 
 Recorded 24 May 2013.
 
-You can <a href="http://identicalcousins.net/downloads/identicalcousins17.m4a">download the m4a file</a>.
+You can <a href="https://identicalcousins.net/downloads/identicalcousins17.m4a">download the m4a file</a>.
 
 Brent and Michael talk to Jonathan Deutsch from <a href="http://tumult.com/">Tumult Inc.</a>, which makes <a href="http://tumult.com/hype/">Hype</a>. Which is awesome software.
 
