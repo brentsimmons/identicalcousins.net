@@ -1,0 +1,15 @@
+@site_name Identical Cousins
+@site_url https://identicalcousins.net/
+@output_file_suffix .html
+@output_folder /Users/brent/Sites/identicalcousins/
+@has_blog true
+@blog_number_of_posts_on_home_page 10
+@blog_home_page_title weblog
+@blog_archive_title weblog archive
+@feed_number_of_posts 32
+@feed_title Identical Cousins
+@feed_description Brent and Michael Simmons make Mac and iOS apps — except when they just talk about making apps. Like on this podcast.
+@feed_author Brent and Michael Simmons
+@feed_author_url https://identicalcousins.net/
+@feed_media_thumbnail https://identicalcousins.net/images/IdenticalCousins-iTunes.png
+@rsync_remote_path 209.38.65.123:/var/www/identicalcousins.net/html/
